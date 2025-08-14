@@ -36,6 +36,8 @@ mkdir [options] directory_name
 rmdir [options] directory_name
 ```
 
+
+
 ## 6. rm — Remove Files/Directories
 ```
 rm [options] file
@@ -65,5 +67,9 @@ touch [options] filename
 ```
 file filename
 ```
+## 11.create a text file
+```
+cat > myfile.txt
 
+```
 
