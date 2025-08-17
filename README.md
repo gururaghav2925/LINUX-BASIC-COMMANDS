@@ -67,6 +67,12 @@ touch [options] filename
 ```bash
 file filename
 ```
+
+
+<img width="549" height="499" alt="image" src="https://github.com/user-attachments/assets/18b1b158-d918-45fe-819d-79ec3c6e7c70" />
+
+
+clear
 ## 11.create a text file
 ```bash
 cat > myfile.txt
@@ -89,6 +95,9 @@ vi filename
 ```bash
 head filename
 ```
+<img width="636" height="511" alt="image" src="https://github.com/user-attachments/assets/5dae67eb-3f2d-47c1-af47-0798a69f4a5e" />
+
+
 ## 16. tail — Show Last Lines of a File
 ```bash
 tail filename
