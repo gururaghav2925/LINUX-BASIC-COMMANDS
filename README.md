@@ -114,10 +114,15 @@ find /path -name filename
 ```bash
 grep "text" filename
 ```
+
 ## 20. man — Show Manual for a Command
 ```bash
 man ls
 ```
+
+<img width="645" height="511" alt="image" src="https://github.com/user-attachments/assets/ea221b3b-baf8-4b8a-aad9-6ad99799c5dc" />
+
+
 ## 21. history — Show Previously Run Commands
 ```bash
 history
