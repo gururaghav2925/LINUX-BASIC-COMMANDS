@@ -28,13 +28,13 @@ mkdir [options] directory_name
 ```
 
 
-
-
-
 ## 5. rmdir — Remove Empty Directory
 ```bash
 rmdir [options] directory_name
 ```
+
+
+<img width="549" height="506" alt="image" src="https://github.com/user-attachments/assets/6a41def0-60de-41c1-82a4-33e629deb05a" />
 
 
 
