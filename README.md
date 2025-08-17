@@ -144,5 +144,10 @@ df -h
 du -sh directory_name
 ```
 
+<img width="754" height="915" alt="image" src="https://github.com/user-attachments/assets/78a944e4-1675-489e-bbb4-f3a4ad6000a9" />
+
+<img width="761" height="480" alt="image" src="https://github.com/user-attachments/assets/69ce32c9-eca7-45b7-a376-a20e618834a9" />
+
+
 ## Conclusion 
-These 25 essential Linux commands cover the most common tasks you’ll face while working in a terminal — from navigation (ls, cd, pwd) and file management (cp, mv, rm, touch) to text viewing/editing (cat, nano, less) and system information (df, du, history).
+These 25 essential Linux commands cover the most common tasks we’ll see while working in a terminal — from navigation (ls, cd, pwd) and file management (cp, mv, rm, touch) to text viewing/editing (cat, nano, less) and system information (df, du, history).
